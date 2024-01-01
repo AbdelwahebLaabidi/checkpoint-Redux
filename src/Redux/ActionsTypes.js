@@ -1,0 +1,4 @@
+export const ADDTASKS = "ADDTASKS"
+export const DELETETASKS = "DELETETASKS"
+export const DONETASKS = "DONETASKS"
+export const CHANGELISTE = "CHANGELISTE"
